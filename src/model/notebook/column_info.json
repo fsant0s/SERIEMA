@@ -1,0 +1,34 @@
+{
+  "text_cols": [
+    "text"
+  ],
+  "cat_cols": [
+  ],
+  "num_cols": [
+    "review_count", 
+    "useful_user", 
+    "funny_user", 
+    "cool_user", 
+    "fans",
+    "average_stars",
+    "compliment_hot",
+    "compliment_more",
+    "compliment_profile", 
+    "compliment_cute",
+    "compliment_list",
+    "compliment_note", 
+    "compliment_plain",
+    "compliment_cool",
+    "compliment_funny", 
+    "compliment_writer", 
+    "compliment_photos",
+    "friend_count", 
+    "elite_count",
+    "yelp_since_YRMO", 
+    "yelp_since_year",
+    "stars", 
+    "useful_review",
+    "funny_review",
+    "cool_review"
+  ]
+}

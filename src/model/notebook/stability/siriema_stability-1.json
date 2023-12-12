@@ -1,0 +1,29 @@
+[
+    {
+        "0": {
+            "adjusted_rand_score": [
+                0.4449913601727691
+            ],
+            "adjusted_mutual_info_score": [
+                0.47615443665039703
+            ],
+            "bagclust": [
+                0.8047999999999998
+            ],
+            "han": [
+                0.8046883647336893
+            ],
+            "OTclust": [
+                0.3204138469696045
+            ]
+        }
+    },
+    {
+        "clusters": [
+            2
+        ],
+        "num_train_epochs": 1,
+        "num_bootstrap_samples": 50,
+        "random_state": 1
+    }
+]
