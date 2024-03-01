@@ -1,10 +1,10 @@
 
-# <img src="assets/siriema.png" style="width:50px; margin-right:-5px"> SIRIEMA: A Framework to Enhance Clustering Stability by Fusing Multimodal Data
+# <img src="assets/seriema.png" style="width:50px; margin-right:-5px"> SERIEMA: A Framework to Enhance Clustering Stability by Fusing Multimodal Data
 
-In this project, we introduce SIRIEMA, a novel multimodal framework that seamlessly integrates categorical, numerical, and text data to bolster clustering robustness.
+In this project, we introduce SERIEMA, a novel multimodal framework that seamlessly integrates categorical, numerical, and text data to bolster clustering robustness.
 It represents a novel approach to customer segmentation and paves the way for future exploration of data fusion techniques in the context of marketing and other applications.
 
-## SIRIEMA
+## SERIEMA
 It has three key components:  a transformer-based model, a data fusion component, and a generative-based model. 
 
 <p align="center">
@@ -50,7 +50,7 @@ $ install_github("cran/OTclust")
 
 ```bash
 $ pyenv local 3.10.0
-$ python -m venv . (inside SIRIEMA folder)
+$ python -m venv . (inside SERIEMA folder)
 $ /Script/activate
 $ python -m pip install -r requirements.txt
 ```
@@ -91,10 +91,10 @@ By recognizing and studying these unique elements, a deeper insight into the div
 To train the model in a simple and direct manner, use the following command:
 
 ```bash
-$ cd SIRIEMA/src/model
+$ cd SERIEMA/src/model
 $ python main.py ../../datasets/processed/yelp/train_config.json
 ```
-Or by utilizing the Jupyter Notebook: [**src/model/notebook/SIRIEMA.ipynb**](https://github.com/fsant0s/SIRIEMA/blob/main/src/model/notebook/SIRIEMA.ipynb)
+Or by utilizing the Jupyter Notebook: [**src/model/notebook/SERIEMA.ipynb**](https://github.com/fsant0s/SERIEMA/blob/main/src/model/notebook/SERIEMA.ipynb)
 
 #### Inference
 
@@ -104,7 +104,7 @@ There are two distinct approaches for performing inference:
 
 - **2**: Using predict.py file
 ```bash
-$ cd SIRIEMA/src/model
+$ cd SERIEMA/src/model
 $ python predict.py
 ```
 
@@ -114,7 +114,7 @@ $ cd /src/stability_algorithms
 $ python .\main.py melbourne_airbnb_open_data/stab_config/test/stab_config-model-100.json
 ```
 
-Or by utilizing the Jupyter Notebook: [**src/model/notebook/computing_stability.ipynb**](https://github.com/fsant0s/SIRIEMA/blob/main/src/model/notebook/computing_stability.ipynb)
+Or by utilizing the Jupyter Notebook: [**src/model/notebook/computing_stability.ipynb**](https://github.com/fsant0s/SERIEMA/blob/main/src/model/notebook/computing_stability.ipynb)
 
 ## Results
 
@@ -125,7 +125,7 @@ Or by utilizing the Jupyter Notebook: [**src/model/notebook/computing_stability.
 > <img src="assets/test-OTclust.png" >
 Comparing stability metrics of all strategies across different sample sizes in the Yelp on the test dataset.
 Underlined scores are the best in each row, while bold ones highlight the results of our proposed framework. 
-The strategies are as follows: **A**: Structured; **B**: Unstructured; **C**: Combined Dataset - Structure Unstructured; **D**: Deep Embedding Clustering With Mixed Data Using Soft-Target Network; and **E**: SIRIEMA.
+The strategies are as follows: **A**: Structured; **B**: Unstructured; **C**: Combined Dataset - Structure Unstructured; **D**: Deep Embedding Clustering With Mixed Data Using Soft-Target Network; and **E**: SERIEMA.
 
 ## Acknowledgements
 ...

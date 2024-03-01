@@ -1,0 +1,22 @@
+03/01/2024 17:46:32 - INFO - data.data_utils -   0 categorical columns
+03/01/2024 17:46:32 - INFO - data.data_utils -   25 numerical columns
+03/01/2024 17:46:32 - INFO - data.load_data -   Text columns: ['text']
+03/01/2024 17:46:32 - INFO - data.load_data -   Raw text example: The food at Desire is simply incredible. Specifically, this was the best gumbo that I have ever had! The fried alligator, red beans and rice, chicken and waffles, and chargrilled oysters were all out of this world as well. Both of the times that I have come to New Orleans have been highlighted by the enthralling conversation by the bartender Ms. Kitty. She truly knows the ins and outs of the city and compliments an excellent meal with her stories and insights of the world. Either lunch or dinner and drinks are a must at Desire if you are in the French Quarter!
+03/01/2024 17:46:32 - INFO - data.data_utils -   0 categorical columns
+03/01/2024 17:46:32 - INFO - data.data_utils -   25 numerical columns
+03/01/2024 17:46:32 - INFO - data.load_data -   Text columns: ['text']
+03/01/2024 17:46:32 - INFO - data.load_data -   Raw text example: So looks like there have been some updates since last month! sandwich and salad added to the menu. Sides (cole slaw and mac and cheese) added to the menu. And not surprisingly, a dedicated pan for classic white, a dedicated pan for classic dark, and a split pan for special white & dark. They've expanded the dessert pie to include pecan pie and they have some more drink options than opening week too.
+
+We came back and just went with the classic white and dark, pairing them up with the pommery honey mustard and chipotle lime mayo, and I'd have to say I think the honey mustard sauce is my new favorite! It has a bit of wasabi so it gives a nice kick to the nose that is refreshingly raw and welcome!
+
+We got a bit of the mac and cheese (also sold per pound), and it was definitely some of the better mac and cheese that I've had in the city. Some marscapone, bacon bits, elbow macaroni, and some pretzel crumbles to give some additional crunch. I was surprisingly pleased with this one. And, by the time we finished eating it upstairs, I heard them telling other customers it had already sold out. In the famous words of my favorite all state commercial, "ohh ohh ohh - you gotta be quicker than that!"
+
+The pecan pie was solid, and again, I am impressed at how consistently good their dessert pies are! The crust is just fantastically flakey and again, the pies are not overly sweet. 
+
+Plus, with the cold weather, we decided to go for a cup of the mulled apple cider and it was really really good.
+03/01/2024 17:46:32 - INFO - data.data_utils -   0 categorical columns
+03/01/2024 17:46:32 - INFO - data.data_utils -   25 numerical columns
+03/01/2024 17:46:32 - INFO - data.load_data -   Text columns: ['text']
+03/01/2024 17:46:32 - INFO - data.load_data -   Raw text example: Well i'll start this with mentioning my artist Jason Bradshaw. He is absolutely amazing. We have been working on an entire leg sleeve on my left leg for about two years now. The piece has come out "speechless" amazing. The entire staff and artist there are always quick to chat up a storm and always quick to remember you. 
+Tattoo detail is awesome and the artist all have amazing skill.
+03/01/2024 17:46:41 - INFO - multimodal_exp_args -   PyTorch: setting up devices

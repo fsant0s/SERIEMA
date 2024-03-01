@@ -1,0 +1,63 @@
+{
+  "_name_or_path": "bert-base-multilingual-uncased",
+  "architectures": [
+    "BertWithTabular"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "tabular_config": {
+    "VAE_architecture": [
+      1000,
+      1000,
+      600,
+      300
+    ],
+    "bn_dec": [
+      false
+    ],
+    "bn_enc": [
+      false
+    ],
+    "cat_feat_dim": 0,
+    "combine_feat_method": "gating_on_cat_and_num_feats_then_sum",
+    "gating_beta": 0.2,
+    "hidden_dropout_prob": 0.1,
+    "latent_dim": [
+      3
+    ],
+    "mlp_act": "relu",
+    "mlp_division": 4,
+    "mlp_dropout": 0.1,
+    "numerical_bn": true,
+    "numerical_feat_dim": 25,
+    "text_feat_dim": 768,
+    "use_simple_classifier": false,
+    "vae_act": "lrelu",
+    "vae_division": 2,
+    "vae_dropout": 0,
+    "vae_out_dim": 1
+  },
+  "torch_dtype": "float32",
+  "transformers_version": "4.26.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 105879
+}

@@ -1,6 +1,6 @@
 import sys
-#sys.path.append('/SIRIEMA/') # to run on recod clusters
-sys.path.append('/SIRIEMA/')
+#sys.path.append('/SERIEMA/') # to run on recod clusters
+sys.path.append('/SERIEMA/')
 
 import os
 import pandas as pd
