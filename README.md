@@ -128,10 +128,7 @@ Underlined scores are the best in each row, while bold ones highlight the result
 The strategies are as follows: **A**: Structured; **B**: Unstructured; **C**: Combined Dataset - Structure Unstructured; **D**: Deep Embedding Clustering With Mixed Data Using Soft-Target Network; and **E**: SERIEMA.
 
 ## Acknowledgements
-...
-<!---
-This project was supported by the Ministry of Science, Technology, and Innovation of Brazil, with resources granted by the Federal Law 8.248 of October 23, 1991, under the PPI-Softex. The project was coordinated by Softex and published as Intelligent agents for mobile platforms based on Cognitive Architecture technology [01245.013778/2020-21].
--->
+This project was supported by the Ministry of Science, Technology, and Innovation of Brazil, with resources granted by the Federal Law 8.248 of October 23, 1991, under the PPI-Softex. The project was coordinated by Softex and published as Intelligent agents for mobile platforms based on Cognitive Architecture technology [01245.013778/2020-21]. Additional support was provided by CAPES, CNPq, and FAPESP.
 
 ## Citation
 ```bash
