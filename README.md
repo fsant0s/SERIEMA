@@ -135,5 +135,12 @@ This project was supported by the Ministry of Science, Technology, and Innovatio
 
 ## Citation
 ```bash
-...
+@inproceedings{silva2024seriema,
+  title={SERIEMA: A Framework to Enhance Clustering Stability, Compactness, and Separation by Fusing Multimodal Data},
+  author={Silva, Fillipe dos Santos and dos Reis, Julio Cesar and Reis, Marcelo S},
+  booktitle={International Conference on Applications of Natural Language to Information Systems},
+  pages={394--408},
+  year={2024},
+  organization={Springer}
+}
 ```
